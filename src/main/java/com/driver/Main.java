@@ -2,11 +2,11 @@ package com.driver;
 
 public class Main {
      class main{
-         public RWOnly getObj() {
+         public RWOnly getName() {
              return Name;
          }
 
-         public void setObj(RWOnly Name) {
+         public void setName(RWOnly Name) {
              this.Name = Name;
          }
 
