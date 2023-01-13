@@ -1,5 +1,7 @@
 package com.driver;
 
-public class RWOnly {
-    
-}
+
+    public  class RWOnly{
+
+    }
+
