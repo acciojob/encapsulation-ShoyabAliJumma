@@ -3,14 +3,14 @@ package com.driver;
 public class Main {
      class main{
          public RWOnly getObj() {
-             return obj;
+             return Name;
          }
 
-         public void setObj(RWOnly obj) {
-             this.obj = obj;
+         public void setObj(RWOnly Name) {
+             this.Name = Name;
          }
 
-         RWOnly obj=new RWOnly();
+         RWOnly Name=new RWOnly();
 
     }
     public static void main(String[] args) {
